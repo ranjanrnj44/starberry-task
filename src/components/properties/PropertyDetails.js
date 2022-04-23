@@ -118,7 +118,7 @@ function PropertyDetails() {
               <button
                 type="button"
                 className=" p-1 btn btn-primary btn-lg btn-block"
-                onClick={() => history.push("/")}
+                onClick={() => history.push("/listingpage")}
               >
                 Back
               </button>
